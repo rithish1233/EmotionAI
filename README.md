@@ -1,4 +1,4 @@
-# Emotion Prediction
+# EmotionAI
 
 A web app that predicts the emotion in a sentence using a **Bidirectional GRU (BiGRU)** deep learning model. It is served with **FastAPI** and includes a simple browser UI.
 
